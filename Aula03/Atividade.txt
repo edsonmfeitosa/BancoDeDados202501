@@ -1,0 +1,5 @@
+Controle de veículos
+
+  João da Silva é dono de um pequeno negócio de transportes de passageiros do tipo VAN.
+
+  Ao todo são sete veículos que fazer diversas viagens por dia, levando pessoas e pequenas cargas para vários lugares da região, como escolas, empresas, aeroportos, parques, etc. Será necessário estabelecer um pequeno controle sobre a utilização da frota, permitindo saber quais as viagens utilizadas por um veículo (destino, data e hora da saída, data e hora do retorno, motorista, tipo de carga, etc). Bem como as manutenções sofridas como a data da manutenção, o serviço realizado, etc. Com base nessas informações, elabore o MER correspondente.
